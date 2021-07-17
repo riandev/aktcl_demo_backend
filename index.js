@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 const port = 5001;
 
 const MongoClient = require("mongodb").MongoClient;
-const uri = "mongodb://127.0.0.1:27017/aktcl_eas";
+//const uri = "mongodb://127.0.0.1:27017/aktcl_eas";
 const uri = "mongodb+srv://aktcl:01939773554op5t@cluster0.9akoo.mongodb.net/aktcl_eas?retryWrites=true&w=majority";
 const client = new MongoClient(uri, {
   useNewUrlParser: true,

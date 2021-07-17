@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/static/js/main.d62e972f.chunk.js",
+    "main.js.map": "/static/js/main.d62e972f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd67c492.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd67c492.js.map",
+    "static/css/2.cd42ce5e.chunk.css": "/static/css/2.cd42ce5e.chunk.css",
+    "static/js/2.c7f0ca6b.chunk.js": "/static/js/2.c7f0ca6b.chunk.js",
+    "static/js/2.c7f0ca6b.chunk.js.map": "/static/js/2.c7f0ca6b.chunk.js.map",
+    "static/js/3.df9f91d3.chunk.js": "/static/js/3.df9f91d3.chunk.js",
+    "static/js/3.df9f91d3.chunk.js.map": "/static/js/3.df9f91d3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.cd42ce5e.chunk.css.map": "/static/css/2.cd42ce5e.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c7f0ca6b.chunk.js.LICENSE.txt": "/static/js/2.c7f0ca6b.chunk.js.LICENSE.txt",
+    "static/media/fifo-iso-logo-2.12b4bb32.png": "/static/media/fifo-iso-logo-2.12b4bb32.png",
+    "static/media/loginBg.4e6a9ab3.gif": "/static/media/loginBg.4e6a9ab3.gif",
+    "static/media/notice.f0228adc.gif": "/static/media/notice.f0228adc.gif",
+    "static/media/user.96156881.png": "/static/media/user.96156881.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd67c492.js",
+    "static/css/2.cd42ce5e.chunk.css",
+    "static/js/2.c7f0ca6b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d62e972f.chunk.js"
+  ]
+}
